@@ -1,0 +1,224 @@
+Universidade,Estado,Curso,Peso_Humanas,Peso_Linguagens,Peso_Redacao,Peso_Matematica,Peso_Ciencias_Natureza,Nota_Corte_Aprox
+UFAC,Acre,Educação Física,1.5,1.5,1.5,1,2,560
+UFAC,Acre,Geografia,2,2,1.5,1.5,1.5,545
+UFAC,Acre,História,3,2,2,1,1,550
+UFAC,Acre,Letras,2.5,3,2,1,1,520
+UFAC,Acre,Matemática,1,1,1,3,2,540
+UFAC,Acre,Pedagogia,2,2,2,1,1,510
+UFAC,Acre,Química,1,1,1,2.5,3,535
+UFAC,Acre,Biologia,1.5,1.5,1.5,1.5,3,545
+UFAC,Acre,Física,1,1,1,3,2.5,530
+UFAC,Acre,Jornalismo,2,3,2.5,1,1,555
+UFAL,Alagoas,Serviço Social,2.5,2,2,1,1,580
+UFAL,Alagoas,Educação Física,1.5,1.5,1.5,1,2,565
+UFAL,Alagoas,Geografia,2,2,1.5,1.5,1.5,550
+UFAL,Alagoas,História,3,2,2,1,1,555
+UFAL,Alagoas,Letras,2.5,3,2,1,1,525
+UFAL,Alagoas,Matemática,1,1,1,3,2,545
+UFAL,Alagoas,Pedagogia,2,2,2,1,1,515
+UFAL,Alagoas,Química,1,1,1,2.5,3,540
+UFAL,Alagoas,Biologia,1.5,1.5,1.5,1.5,3,550
+UFAL,Alagoas,Física,1,1,1,3,2.5,535
+UNEAL,Alagoas,Pedagogia,2,2,2,1,1,505
+UNEAL,Alagoas,Letras,2.5,3,2,1,1,515
+UNEAL,Alagoas,História,3,2,2,1,1,540
+UNEAL,Alagoas,Geografia,2,2,1.5,1.5,1.5,535
+UNEAL,Alagoas,Matemática,1,1,1,3,2,530
+UFAP,Amapá,Educação Física,1.5,1.5,1.5,1,2,555
+UFAP,Amapá,Geografia,2,2,1.5,1.5,1.5,540
+UFAP,Amapá,História,3,2,2,1,1,545
+UFAP,Amapá,Letras,2.5,3,2,1,1,520
+UFAP,Amapá,Matemática,1,1,1,3,2,535
+UFAP,Amapá,Pedagogia,2,2,2,1,1,510
+UFAP,Amapá,Química,1,1,1,2.5,3,530
+UFAP,Amapá,Biologia,1.5,1.5,1.5,1.5,3,540
+UFAP,Amapá,Turismo,2,2,1.5,1.5,1.5,525
+UFAP,Amapá,Ciências Sociais,2.5,2,2,1,1,535
+UEA,Amazonas,Geografia,2,2,1.5,1.5,1.5,545
+UEA,Amazonas,História,3,2,2,1,1,550
+UEA,Amazonas,Letras,2.5,3,2,1,1,525
+UEA,Amazonas,Matemática,1,1,1,3,2,540
+UEA,Amazonas,Pedagogia,2,2,2,1,1,515
+UEA,Amazonas,Química,1,1,1,2.5,3,535
+UEA,Amazonas,Biologia,1.5,1.5,1.5,1.5,3,545
+UEA,Amazonas,Física,1,1,1,3,2.5,530
+UEA,Amazonas,Educação Física,1.5,1.5,1.5,1,2,560
+UEA,Amazonas,Turismo,2,2,1.5,1.5,1.5,530
+UNIR,Rondônia,Educação Física,1.5,1.5,1.5,1,2,555
+UNIR,Rondônia,Geografia,2,2,1.5,1.5,1.5,540
+UNIR,Rondônia,História,3,2,2,1,1,545
+UNIR,Rondônia,Letras,2.5,3,2,1,1,520
+UNIR,Rondônia,Matemática,1,1,1,3,2,535
+UNIR,Rondônia,Pedagogia,2,2,2,1,1,510
+UNIR,Rondônia,Química,1,1,1,2.5,3,530
+UNIR,Rondônia,Biologia,1.5,1.5,1.5,1.5,3,540
+UNIR,Rondônia,Sistemas de Informação,1,1,1.5,3,2,550
+UNIR,Rondônia,Zootecnia,1,1,1,2,3,525
+UFRR,Roraima,Educação Física,1.5,1.5,1.5,1,2,550
+UFRR,Roraima,Geografia,2,2,1.5,1.5,1.5,535
+UFRR,Roraima,História,3,2,2,1,1,540
+UFRR,Roraima,Letras,2.5,3,2,1,1,515
+UFRR,Roraima,Matemática,1,1,1,3,2,530
+UFRR,Roraima,Pedagogia,2,2,2,1,1,505
+UFRR,Roraima,Química,1,1,1,2.5,3,525
+UFRR,Roraima,Biologia,1.5,1.5,1.5,1.5,3,535
+UFRR,Roraima,Física,1,1,1,3,2.5,525
+UFRR,Roraima,Ciências Sociais,2.5,2,2,1,1,530
+UFT,Tocantins,Educação Física,1.5,1.5,1.5,1,2,565
+UFT,Tocantins,Geografia,2,2,1.5,1.5,1.5,550
+UFT,Tocantins,História,3,2,2,1,1,555
+UFT,Tocantins,Letras,2.5,3,2,1,1,530
+UFT,Tocantins,Matemática,1,1,1,3,2,545
+UFT,Tocantins,Pedagogia,2,2,2,1,1,520
+UFT,Tocantins,Química,1,1,1,2.5,3,540
+UFT,Tocantins,Biologia,1.5,1.5,1.5,1.5,3,550
+UFT,Tocantins,Sistemas de Informação,1,1,1.5,3,2,555
+UFT,Tocantins,Zootecnia,1,1,1,2,3,535
+UNIFAP,Amapá,Ciências Sociais,2.5,2,2,1,1,540
+UNIFAP,Amapá,Filosofia,3,2.5,2.5,1,1,525
+UNIFAP,Amapá,Artes Visuais,2,2.5,2.5,1,1,530
+UNIFAP,Amapá,Música,1.5,2.5,2,1,1,520
+UNIFAP,Amapá,Teatro,2.5,3,2.5,1,1,525
+UNAMA,Pará,Comunicação Social,2,3,2.5,1,1,575
+UNAMA,Pará,Design,2,2.5,2.5,1.5,1,570
+UNAMA,Pará,Publicidade e Propaganda,2,3,2.5,1.5,1,580
+UNAMA,Pará,Jornalismo,2,3,2.5,1,1,575
+UNAMA,Pará,Relações Públicas,2.5,2.5,2,1.5,1,560
+UEPA,Pará,Educação Física,1.5,1.5,1.5,1,2,570
+UEPA,Pará,Terapia Ocupacional,1.5,1.5,2,1,3,585
+UEPA,Pará,Fonoaudiologia,1.5,2,2,1,3,590
+UEPA,Pará,Tecnologia em Radiologia,1,1,1.5,2,3,575
+UEPA,Pará,Biomedicina,1,1,1.5,1.5,3,595
+URCA,Ceará,Educação Física,1.5,1.5,1.5,1,2,570
+URCA,Ceará,Geografia,2,2,1.5,1.5,1.5,555
+URCA,Ceará,História,3,2,2,1,1,560
+URCA,Ceará,Letras,2.5,3,2,1,1,535
+URCA,Ceará,Matemática,1,1,1,3,2,550
+URCA,Ceará,Pedagogia,2,2,2,1,1,525
+URCA,Ceará,Química,1,1,1,2.5,3,545
+URCA,Ceará,Biologia,1.5,1.5,1.5,1.5,3,555
+URCA,Ceará,Física,1,1,1,3,2.5,540
+URCA,Ceará,Ciências Sociais,2.5,2,2,1,1,545
+UFERSA,Rio Grande do Norte,Zootecnia,1,1,1,2,3,595
+UFERSA,Rio Grande do Norte,Engenharia Florestal,1.5,1.5,1.5,2,3,605
+UFERSA,Rio Grande do Norte,Engenharia de Pesca,1,1,1.5,2,3,580
+UFERSA,Rio Grande do Norte,Ciência e Tecnologia,1,1,1.5,3,2.5,610
+UFERSA,Rio Grande do Norte,Biotecnologia,1,1,1.5,2,3,625
+UFERSA,Rio Grande do Norte,Ecologia,1.5,1.5,1.5,1.5,3,590
+UFERSA,Rio Grande do Norte,Engenharia de Materiais,1,1,1,3,2.5,615
+UFERSA,Rio Grande do Norte,Engenharia de Energia,1,1,1,3,2.5,620
+UFERSA,Rio Grande do Norte,Engenharia Química,1,1,1,2.5,3,630
+UFERSA,Rio Grande do Norte,Engenharia de Petróleo,1,1,1.5,3,2.5,645
+UFCG,Paraíba,Engenharia de Materiais,1,1,1,3,2.5,620
+UFCG,Paraíba,Engenharia de Minas,1,1,1,3,2.5,615
+UFCG,Paraíba,Engenharia de Petróleo,1,1,1.5,3,2.5,640
+UFCG,Paraíba,Engenharia Química,1,1,1,2.5,3,625
+UFCG,Paraíba,Engenharia Florestal,1.5,1.5,1.5,2,3,600
+UFCG,Paraíba,Meteorologia,1,1,1.5,2.5,3,610
+UFCG,Paraíba,Design,2,2.5,2.5,1.5,1,575
+UFCG,Paraíba,Arquitetura e Urbanismo,1.5,2,2,2,1,720
+UFCG,Paraíba,Comunicação Social,2,3,2.5,1,1,580
+UFCG,Paraíba,Ciências Sociais,2.5,2,2,1,1,570
+UEPB,Paraíba,Educação Física,1.5,1.5,1.5,1,2,565
+UEPB,Paraíba,Geografia,2,2,1.5,1.5,1.5,550
+UEPB,Paraíba,História,3,2,2,1,1,555
+UEPB,Paraíba,Letras,2.5,3,2,1,1,530
+UEPB,Paraíba,Matemática,1,1,1,3,2,545
+UEPB,Paraíba,Pedagogia,2,2,2,1,1,520
+UEPB,Paraíba,Química,1,1,1,2.5,3,540
+UEPB,Paraíba,Biologia,1.5,1.5,1.5,1.5,3,550
+UNIVASF,Pernambuco,Engenharia de Produção,1,1,1,3,2,630
+UNIVASF,Pernambuco,Engenharia Agrícola,1,1,1,2.5,2.5,610
+UNIVASF,Pernambuco,Engenharia de Computação,1,1,1.5,3,2,635
+UNIVASF,Pernambuco,Zootecnia,1,1,1,2,3,590
+UNIVASF,Pernambuco,Geografia,2,2,1.5,1.5,1.5,555
+UNIVASF,Pernambuco,História,3,2,2,1,1,560
+UNIVASF,Pernambuco,Letras,2.5,3,2,1,1,535
+UNIVASF,Pernambuco,Matemática,1,1,1,3,2,550
+UNIVASF,Pernambuco,Ciências Sociais,2.5,2,2,1,1,565
+UNIVASF,Pernambuco,Arqueologia,2.5,2,2,1,1.5,575
+UFAL,Alagoas,Teatro,2.5,3,2.5,1,1,545
+UFAL,Alagoas,Música,1.5,2.5,2,1,1,540
+UFAL,Alagoas,Dança,2,2.5,2,1,1.5,535
+UFAL,Alagoas,Artes Visuais,2,2.5,2.5,1,1,550
+UFAL,Alagoas,Cinema,2,3,2.5,1.5,1,570
+UFAL,Alagoas,Design,2,2.5,2.5,1.5,1,565
+UFAL,Alagoas,Arquitetura e Urbanismo,1.5,2,2,2,1,710
+UFAL,Alagoas,Museologia,2.5,2,2,1,1,555
+UFAL,Alagoas,Biblioteconomia,2,2.5,2,1.5,1,545
+UFAL,Alagoas,Secretariado Executivo,2,2.5,2,2,1,560
+UFS,Sergipe,Fonoaudiologia,1.5,2,2,1,3,610
+UFS,Sergipe,Terapia Ocupacional,1.5,1.5,2,1,3,605
+UFS,Sergipe,Educação Física,1.5,1.5,1.5,1,2,575
+UFS,Sergipe,Geografia,2,2,1.5,1.5,1.5,560
+UFS,Sergipe,História,3,2,2,1,1,565
+UFS,Sergipe,Letras,2.5,3,2,1,1,540
+UFS,Sergipe,Matemática,1,1,1,3,2,555
+UFS,Sergipe,Pedagogia,2,2,2,1,1,530
+UFS,Sergipe,Química,1,1,1,2.5,3,550
+UFS,Sergipe,Biologia,1.5,1.5,1.5,1.5,3,560
+UFS,Sergipe,Física,1,1,1,3,2.5,545
+UFS,Sergipe,Ciências Sociais,2.5,2,2,1,1,555
+UFS,Sergipe,Filosofia,3,2.5,2.5,1,1,540
+UFS,Sergipe,Turismo,2,2,1.5,1.5,1.5,545
+UFS,Sergipe,Comunicação Social,2,3,2.5,1,1,570
+UFS,Sergipe,Secretariado Executivo,2,2.5,2,2,1,565
+UFS,Sergipe,Sistemas de Informação,1,1,1.5,3,2,580
+UFS,Sergipe,Estatística,1,1,1.5,3,2,575
+UFS,Sergipe,Engenharia Florestal,1.5,1.5,1.5,2,3,595
+UFS,Sergipe,Engenharia de Pesca,1,1,1.5,2,3,585
+UNIT,Sergipe,Medicina Veterinária,1,1,1.5,1,3,620
+UNIT,Sergipe,Fisioterapia,1,1,2,1,3,615
+UNIT,Sergipe,Design,2,2.5,2.5,1.5,1,580
+UNIT,Sergipe,Publicidade e Propaganda,2,3,2.5,1.5,1,590
+UNIT,Sergipe,Jornalismo,2,3,2.5,1,1,585
+UEMA,Maranhão,Educação Física,1.5,1.5,1.5,1,2,570
+UEMA,Maranhão,Geografia,2,2,1.5,1.5,1.5,555
+UEMA,Maranhão,História,3,2,2,1,1,560
+UEMA,Maranhão,Letras,2.5,3,2,1,1,535
+UEMA,Maranhão,Matemática,1,1,1,3,2,550
+UEMA,Maranhão,Pedagogia,2,2,2,1,1,525
+UEMA,Maranhão,Química,1,1,1,2.5,3,545
+UEMA,Maranhão,Biologia,1.5,1.5,1.5,1.5,3,555
+UEMA,Maranhão,Física,1,1,1,3,2.5,540
+UEMA,Maranhão,Ciências Sociais,2.5,2,2,1,1,545
+UFMA,Maranhão,Oceanografia,1,1,1.5,2,3,605
+UFMA,Maranhão,Engenharia de Pesca,1,1,1.5,2,3,590
+UFMA,Maranhão,Zootecnia,1,1,1,2,3,585
+UFMA,Maranhão,Agronomia,1,1,1,2,3,595
+UFMA,Maranhão,Engenharia Florestal,1.5,1.5,1.5,2,3,600
+UFMA,Maranhão,Música,1.5,2.5,2,1,1,545
+UFMA,Maranhão,Teatro,2.5,3,2.5,1,1,550
+UFMA,Maranhão,Artes Visuais,2,2.5,2.5,1,1,555
+UFMA,Maranhão,Design,2,2.5,2.5,1.5,1,575
+UFMA,Maranhão,Turismo,2,2,1.5,1.5,1.5,560
+UFMA,Maranhão,Hotelaria,2,2,1.5,1.5,1.5,555
+UFMA,Maranhão,Gastronomia,1.5,1.5,1.5,1.5,2,565
+UFPI,Piauí,Educação Física,1.5,1.5,1.5,1,2,575
+UFPI,Piauí,Geografia,2,2,1.5,1.5,1.5,560
+UFPI,Piauí,História,3,2,2,1,1,565
+UFPI,Piauí,Letras,2.5,3,2,1,1,540
+UFPI,Piauí,Matemática,1,1,1,3,2,555
+UFPI,Piauí,Pedagogia,2,2,2,1,1,530
+UFPI,Piauí,Química,1,1,1,2.5,3,550
+UFPI,Piauí,Biologia,1.5,1.5,1.5,1.5,3,560
+UFPI,Piauí,Física,1,1,1,3,2.5,545
+UFPI,Piauí,Ciências Sociais,2.5,2,2,1,1,555
+UFPI,Piauí,Filosofia,3,2.5,2.5,1,1,545
+UFPI,Piauí,Comunicação Social,2,3,2.5,1,1,575
+UFPI,Piauí,Turismo,2,2,1.5,1.5,1.5,550
+UFPI,Piauí,Arqueologia,2.5,2,2,1,1.5,585
+UFPI,Piauí,Museologia,2.5,2,2,1,1,570
+UESPI,Piauí,Educação Física,1.5,1.5,1.5,1,2,565
+UESPI,Piauí,Geografia,2,2,1.5,1.5,1.5,550
+UESPI,Piauí,História,3,2,2,1,1,555
+UESPI,Piauí,Letras,2.5,3,2,1,1,530
+UESPI,Piauí,Matemática,1,1,1,3,2,545
+UESPI,Piauí,Pedagogia,2,2,2,1,1,520
+UESPI,Piauí,Química,1,1,1,2.5,3,540
+UESPI,Piauí,Biologia,1.5,1.5,1.5,1.5,3,550
+FACID,Piauí,Fisioterapia,1,1,2,1,3,620
+FACID,Piauí,Biomedicina,1,1,1.5,1.5,3,610
+FACID,Piauí,Radiologia,1,1,1.5,2,3,595
+FACID,Piauí,Estética e Cosmética,1.5,1.5,2,1,2.5,580
+FACID,Piauí,Tecnologia em Análises Clínicas,1,1,1.5,2,3,590
